@@ -1,0 +1,1 @@
+data a; set sashelp.class; run;
